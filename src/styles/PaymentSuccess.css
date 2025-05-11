@@ -1,0 +1,26 @@
+.success-container {
+  text-align: center;
+  padding: 2rem;
+  background-color: #e8f5e9;
+  max-width: 400px;
+  margin: 3rem auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.success-img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 1rem;
+}
+
+.btn-track-order {
+  margin-top: 1.5rem;
+  padding: 0.7rem 1.5rem;
+  background-color: #1976d2;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}

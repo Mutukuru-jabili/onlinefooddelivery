@@ -1,0 +1,33 @@
+.qr-container {
+  text-align: center;
+  padding: 2rem;
+  background-color: #fff;
+  max-width: 400px;
+  margin: 3rem auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.qr-box {
+  padding: 1.5rem;
+  border: 2px dashed #ccc;
+  border-radius: 10px;
+  margin-top: 1rem;
+  background: #f9f9f9;
+}
+
+.qr-img {
+  width: 200px;
+  height: 200px;
+}
+
+.btn-payment {
+  margin-top: 1.5rem;
+  padding: 0.7rem 1.5rem;
+  background-color: #00c853;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
